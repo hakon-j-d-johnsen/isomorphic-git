@@ -1,0 +1,7 @@
+#+TITLE: new file
+
+** They also created the file.
+*** Who know what happens now.
+** We created a new file
+with some interesting text
+*** Including a sub-heading

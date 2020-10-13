@@ -1,0 +1,4 @@
+#+TITLE: new page
+
+** This is a page with some text!
+*** The text is interesting

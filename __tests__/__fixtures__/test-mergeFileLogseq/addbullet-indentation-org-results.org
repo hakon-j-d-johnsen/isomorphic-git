@@ -1,0 +1,7 @@
+#+TITLE: new page
+
+** This is a page with some text!
+*** The text is interesting
+*** We added another line at a higher indentation
+With a longer note
+** They added a line outside
